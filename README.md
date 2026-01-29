@@ -11,11 +11,11 @@
 
 <!-- ================= ABOUT ME ================= -->
 
-## 🚀 About Me
+<h2>About Me</h2>
 
 <table>
-<tr>
-<td width="55%" valign="top">
+  <tr>
+    <td width="55%" valign="top">
 
 ```js
 const me = {
@@ -32,3 +32,11 @@ const me = {
 
   funFact: "I turn ideas into visuals & code ✨"
 };
+```
+</td>
+<td width="45%" valign="top">
+  <img src="https://raw.githubusercontent.com/clssty/clssty/main/assets/art1.png" width="49%" />
+  <img src="https://raw.githubusercontent.com/clssty/clssty/main/assets/art5.PNG" width="49%" />
+  <img src="https://raw.githubusercontent.com/clssty/clssty/main/assets/art2.png" width="100%" />
+  <img src="https://raw.githubusercontent.com/clssty/clssty/main/assets/art4.png" width="100%" />
+</td>
