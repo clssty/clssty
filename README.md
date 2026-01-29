@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!-- ================= HEADER / SAMBUTAN ================= -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Welcome%20to%20Cazzy's%20Page&fontAlign=50&fontAlignY=35&fontSize=42&color=gradient" />
