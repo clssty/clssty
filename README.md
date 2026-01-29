@@ -2,7 +2,7 @@
 
 <!-- ================= HEADER / SAMBUTAN ================= -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Hi%20there!%20Welcome_to%20Cazzy's%20Page&fontAlign=50&fontAlignY=35&fontSize=42&color=gradient" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Welcome%20to%20Cazzy's%20Page&fontAlign=50&fontAlignY=35&fontSize=42&color=gradient" />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=clssty&label=Profile%20views&color=blue&style=flat" />
