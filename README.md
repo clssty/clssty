@@ -15,21 +15,20 @@
 
 <table>
 <tr>
-<td width="55%">
+<td width="55%" valign="top">
 
 ```js
 const me = {
-  name: "Your Name",
-  role: "Computer Science Student",
+  name: "Cazzy",
+  role: "Student | Game Dev | Artist",
   location: "Indonesia 🇮🇩",
-  interests: ["Game Development", "Web Development", "Creative Tech"],
-  
+  interests: ["Art", "Edits", "Game Development"],
+
   skills: {
-    gameDev: ["Unity", "C#", "Game Mechanics"],
+    gameDev: ["Unity", "C#"],
     webDev: ["HTML", "CSS", "JavaScript"],
     creative: ["Blender", "UI/UX"]
   },
 
   funFact: "I turn ideas into visuals & code ✨"
 };
-
