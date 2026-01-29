@@ -1,16 +1,37 @@
 ## Hi there 👋
 
-<!--
-**clssty/clssty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- ================= HEADER / SAMBUTAN ================= -->
 
-Here are some ideas to get you started:
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Hi%20there!%20I'm%20Your%20Name&fontAlign=50&fontAlignY=35&fontSize=42&color=gradient" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=clssty&label=Profile%20views&color=blue&style=flat" />
+  <img src="https://img.shields.io/github/followers/clssty?label=Followers&style=flat" />
+</p>
+
+---
+
+<!-- ================= ABOUT ME ================= -->
+
+## 🚀 About Me
+
+<table>
+<tr>
+<td width="55%">
+
+```js
+const me = {
+  name: "Your Name",
+  role: "Computer Science Student",
+  location: "Indonesia 🇮🇩",
+  interests: ["Game Development", "Web Development", "Creative Tech"],
+  
+  skills: {
+    gameDev: ["Unity", "C#", "Game Mechanics"],
+    webDev: ["HTML", "CSS", "JavaScript"],
+    creative: ["Blender", "UI/UX"]
+  },
+
+  funFact: "I turn ideas into visuals & code ✨"
+};
+
