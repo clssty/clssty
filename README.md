@@ -1,6 +1,7 @@
 <!-- ================= HEADER / SAMBUTAN ================= -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Welcome%20to%20Cazzy's%20Page&fontAlign=50&fontAlignY=35&fontSize=42&color=gradient" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Welcome%20to%20Cazzy's%20Page&fontAlign=50&fontAlignY=35&fontSize=42&color=FDACAC" />
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=clssty&label=Profile%20views&color=blue&style=flat" />
@@ -21,7 +22,7 @@
   <img src="https://raw.githubusercontent.com/clssty/clssty/main/assets/unity_logo_dark.png"
        width="35%" alt="Unity" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/clssty/clssty/main/assets/ibis_paint_logo.jpg" width="13%"alt="IbisPaint" />
-  <br><br>
+  <br>
   <img src="https://raw.githubusercontent.com/clssty/clssty/main/assets/cplusplus_logo.png" width="12%"alt="C++" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/clssty/clssty/main/assets/charp.png" width="12%"alt="C++" />
 </p>
