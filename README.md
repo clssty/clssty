@@ -61,8 +61,9 @@
 <p>
   <img src="https://raw.githubusercontent.com/clssty/clssty/main/assets/art1.png" width="300" />&nbsp;
   <img src="https://raw.githubusercontent.com/clssty/clssty/main/assets/art5.PNG" width="300" />&nbsp;
-  <img src="https://raw.githubusercontent.com/clssty/clssty/main/assets/art2.png" width="450" />&nbsp;
-  <img src="https://raw.githubusercontent.com/clssty/clssty/main/assets/art4.png" width="450" />&nbsp;
+  <br>
+  <img src="https://raw.githubusercontent.com/clssty/clssty/main/assets/art2.png" width="420" />&nbsp;
+  <img src="https://raw.githubusercontent.com/clssty/clssty/main/assets/art4.png" width="420" />&nbsp;
 </p>
 <br>
 </td>
